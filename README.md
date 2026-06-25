@@ -34,7 +34,7 @@ An interactive and responsive Rock Paper Scissors game built with HTML, CSS, and
 
 ## 🌐 Live Demo
 
-    [Play the Game](https://omm66.github.io/Rock-Paper-Scissors/)
+[Play the Game](https://omm66.github.io/Rock-Paper-Scissors/)
 
 ## 📂 Project Structure
 
